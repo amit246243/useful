@@ -1,0 +1,138 @@
+html{overflow-x: hidden}
+
+.topImg{
+width: 5%;
+}
+
+.jumbotron{
+	text-align: center;
+	background-image: linear-gradient(blue, white);
+	margin: 0px;
+	
+}
+.modal-body{text-align: center;}
+.container-fluid{
+padding: 0px;
+}
+.section-light{
+ background-image: url(background-second.jpg);
+}
+.text{
+margin-top: 50px;
+color: white;
+font-weight: 500
+}
+.button{
+background-color: red;
+color: white;
+margin: 0px 10px 10px;
+font-weight: 500;
+margin-bottom: 15px;
+}
+.anothertxt{
+	color: white;
+	font-weight: 500;
+}
+.img_fluid{
+margin-top: 50px;
+}
+h2{margin: auto;}
+.textField{
+display: block;
+width: 70%;
+margin: auto;
+border-radius: 3px;
+}
+.carousli{
+padding: 0px;
+}
+
+.carousel-inner{
+border-radius: 5px;
+margin-bottom: 30px;
+}
+h4{
+margin-top: 15px;
+text-align: center;
+display: block;
+font-size: 18px;
+width: 70%;
+}
+.sides{
+padding: 0px;
+}
+.second-cont{
+	background-color: white;
+}
+.lastButtons{
+margin-top: 8px;
+margin-bottom: 20px;
+background-color: red;
+}
+.lead{
+color: white;
+font-weight: 500;
+}
+.display-4{
+	color: #8533ff;
+	 text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	
+}
+.nav-item{
+	font-size: 25px;
+}
+p{
+font-size: 16px;
+}
+.container-fluid{text-align: center;}
+h8{
+	color: blue;
+	display: block;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+h3{padding-bottom: 30px;}
+.firstRow{margin-bottom: 15px;}
+h6{
+font-size: 20px;
+}
+.favic{
+ float: left;
+ margin-top: 3%;
+}
+.sectionThree{
+margin-top: 30px;
+background-color: white;
+}
+.photo3{
+object-fit: cover;
+
+}
+.ceoImg{
+margin-left: 20%
+}
+
+.fa-facebook-square{
+float: left;
+color: white;
+}
+@media screen and (max-width: 990px){
+.topImg{
+width:7%;
+}
+.ceoImg{margin: auto;
+margin-top: 20px;}
+}
+
+
+@media screen and (max-width: 700px){
+.topImg{
+width:10%;
+}
+
+.favic{
+float: none;
+width: 30%;
+}
+
+}
